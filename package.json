@@ -9,10 +9,21 @@
     "predict": "node predict.mjs"
   },
   "keywords": [
-    "world-cup-2026", "fifa", "football", "soccer", "predictions", "elo",
-    "dixon-coles", "poisson", "monte-carlo", "sports-analytics", "statistics"
+    "world-cup-2026",
+    "fifa",
+    "football",
+    "soccer",
+    "predictions",
+    "elo",
+    "dixon-coles",
+    "poisson",
+    "monte-carlo",
+    "sports-analytics",
+    "statistics"
   ],
   "homepage": "https://cup26matches.com",
   "license": "MIT",
-  "engines": { "node": ">=18" }
+  "engines": {
+    "node": ">=18"
+  }
 }
